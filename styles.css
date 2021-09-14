@@ -1,0 +1,28 @@
+body {
+padding: 100px;
+margin: 0px;
+background-image: linear-gradient(to right, green, white);
+}
+
+.pokemon {
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    border: solid 5px;
+    border-color:white;
+    border-radius: 50px;
+    padding: 50px;
+    width: 600px;
+    height: 400px;
+    font-size: 50px;
+}
+
+
+span {
+    color: white;
+    font-size: 50px;
+}
+
+.name {
+    color: white;
+}
